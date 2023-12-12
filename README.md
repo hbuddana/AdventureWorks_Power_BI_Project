@@ -2,7 +2,7 @@
 
 # AdventureWorks Sales Dashboard Analysis
 
-Welcome to the **AdventureWorks Sales Dashboard**, a comprehensive visualization tool that encapsulates the company's performance metrics across multiple dimensions. This dynamic report provides insights into our sales trends, product popularity, customer engagement, and geographical sales distribution. Here's a detailed breakdown of each section of the dashboard:
+Welcome to the **AdventureWorks Sales Dashboard**, a comprehensive visualization tool that encapsulates the company's performance metrics across multiple dimensions. This dynamic report provides insights into our sales trends, product popularity, customer engagement, and geographical sales distribution. Here's a detailed breakdown of each section of the dashboard: 
 
 ##  [Power_BI_Dashboard](https://app.powerbi.com/groups/me/reports/40fb9e50-7e5d-4fc2-b793-8072e87236f0/ReportSection0286cbd1a500275010a7?experience=power-bi)
 
