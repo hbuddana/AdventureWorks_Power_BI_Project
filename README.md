@@ -6,7 +6,7 @@ Welcome to the **AdventureWorks Sales Dashboard**, a comprehensive visualization
 
 ##  [Power_BI_Dashboard](https://app.powerbi.com/groups/me/reports/40fb9e50-7e5d-4fc2-b793-8072e87236f0/ReportSection0286cbd1a500275010a7?experience=power-bi)
 
-## Overall Performance KPIs
+## Overall Performance KPI's
 
 - **Revenue**: Standing at a striking `$24.9M`, our revenue indicator shows robust sales activity.
 - **Profit**: With `$10.5M` in profits, the company’s profitability reflects efficient operations and strong market demand.
