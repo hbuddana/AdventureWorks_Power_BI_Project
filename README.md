@@ -24,7 +24,7 @@ Our top products by orders and revenue are led by the `Water Bottle - 30 oz.`, w
 
 ## Geographical Insights
 
-The sales distribution map indicates that our major revenue streams come from the **United States, the United Kingdom, and Australia**, highlighting the importance of these markets to our global sales strategy.
+The sales distribution map indicates that our major revenue streams come from the **United States,  United Kingdom, and Australia**, highlighting the importance of these markets to our global sales strategy.
 ![Picture2](https://github.com/hbuddana/Power_BI_Project/assets/65592890/bfb630f5-4468-478f-bec9-d0bd002dc2ce)
 
 ## Product Deep Dive: Water Bottle - 30 oz.
